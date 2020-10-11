@@ -1,3 +1,4 @@
+header,
 h1 {
     margin-top: 3rem !important;
   }
@@ -9,4 +10,12 @@ img {
 
 blockquote {
     margin-top: .75rem !important;
+}
+
+#NameForm {
+    margin-top: 3rem !important;
+}
+
+#portfolioGrid {
+    margin-top: 3rem !important;
 }
