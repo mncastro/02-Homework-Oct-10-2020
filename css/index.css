@@ -9,13 +9,15 @@ img {
     padding-right: (spacer * .5) !important;
 }
 
+.text-info {
+    margin-top: 15px;
+}
 
 blockquote {
     margin-top: .75rem !important;
 }
 
 .contact {
-    /* position: relative; */
     margin-top: 5%;
     width: 80%;
 }
