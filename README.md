@@ -19,4 +19,9 @@ and a submit button.
 
 -Used fluid containers for webpage and mobile functionality.
 
--Used semantic tags when possible for important sections
+-Used semantic tags when possible for important sections.
+
+
+https://github.com/mncastro/02-Homework-Oct-10-2020
+
+https://mncastro.github.io/02-Homework-Oct-10-2020/
