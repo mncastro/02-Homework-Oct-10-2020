@@ -1,27 +1,37 @@
-# 02-Homework-Oct-10-2020
-Beta version of personal portfolio
+# Mario Castro's Professional Portfolio
 
-# Information and general description
+Beta version of personal portfolio. The site currently showcases the following:
 
--Responsive portfolio with functional links.
+-A short biography.
+-A resumé.
+-Programming and digital humanities projects.
+-A contact section with a responsive Google Form. 
 
--Navbar added with functional buttons.
+## Information and general description
 
--I added a dropdown menu with a CV and LinkedIn options. 
-Only the LinkedIn button is functional.
+## UPDATES November 23, 2020
 
--The contact page has an input form with Name, Email, Text input form 
-and a submit button.
+-Improved the site's overall responsiveness.
 
--Added info cards with functional buttons and images.
+-Added Footer with copyright.
+
+-Embedded a responsive Google Form and erased old Bootstrap Input Form.
+
+-Added links to new projects in Portfolio section. 
+
+-Navbar now has a link to download my current CV in PDF format. 
+
+-Improved HTML links and added ALT texts to all images.
 
 -Use a grid style to place the headings and sections.
 
--Used fluid containers for webpage and mobile functionality.
+-Maintained semantic tags when possible for important sections.
 
--Used semantic tags when possible for important sections.
+-Updated README file with sampla images.
+
+## Future Development
+
+-Add a Publications section and implement some kind of API functionality.
 
 
-https://github.com/mncastro/02-Homework-Oct-10-2020
 
-https://mncastro.github.io/02-Homework-Oct-10-2020/
