@@ -15,7 +15,7 @@ Beta version of personal portfolio. The site currently showcases the following:
 ## UPDATES November 23, 2020
 
 * Improved the site's overall responsiveness.
-
+ q
 * Added Footer with copyright.
 
 * Embedded a responsive Google Form and erased old Bootstrap Input Form.
